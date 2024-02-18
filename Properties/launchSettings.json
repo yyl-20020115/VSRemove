@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "VSRemove": {
+      "commandName": "Project",
+      "commandLineArgs": ".",
+      "workingDirectory": "d:\\working"
+    }
+  }
+}
